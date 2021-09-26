@@ -1,0 +1,16 @@
+{
+  "umaInfo":[
+    {"id":"001", "name":"[ほっぴん♪ビタミンハート]スペシャルウィーク", "spec":{"distanceSuitability":{"short":"F", "mile":"C", "middle":"A", "long":"A"}}},
+    {"id":"002", "name":"[ワイルドトップギア]ウォッカ", "spec":{"distanceSuitability":{"short":"F", "mile":"A", "middle":"A", "long":"F"}}},
+    {"id":"003", "name":"[岩穿つ青]グラスワンダー", "spec":{"distanceSuitability":{"short":"G", "mile":"A", "middle":"B", "long":"A"}}},
+    {"id":"004", "name":"[Maverick]ナリタブライアン", "spec":{"distanceSuitability":{"short":"F", "mile":"B", "middle":"A", "long":"A"}}},
+    {"id":"005", "name":"[あおぐもサミング]セイウンスカイ", "spec":{"distanceSuitability":{"short":"G", "mile":"C", "middle":"A", "long":"A"}}},
+    {"id":"006", "name":"[サンライト・ブーケ]マヤノトップガン", "spec":{"distanceSuitability":{"short":"D", "mile":"D", "middle":"A", "long":"A"}}},
+    {"id":"007", "name":"[ローゼスドリーム]ライスシャワー", "spec":{"distanceSuitability":{"short":"E", "mile":"C", "middle":"A", "long":"A"}}},
+    {"id":"008", "name":"[フィーユ・エクレール]カレンチャン", "spec":{"distanceSuitability":{"short":"A", "mile":"D", "middle":"G", "long":"G"}}},
+    {"id":"009", "name":"[トップ・オブ・ジョイフル]トウカイテイオー", "spec":{"distanceSuitability":{"short":"F", "mile":"E", "middle":"A", "long":"B"}}},
+    {"id":"010", "name":"[ビヨンド・ザ・ホライゾン]トウカイテイオー", "spec":{"distanceSuitability":{"short":"F", "mile":"E", "middle":"A", "long":"B"}}},
+    {"id":"011", "name":"[スターライトビート]オグリキャップ", "spec":{"distanceSuitability":{"short":"E", "mile":"A", "middle":"A", "long":"B"}}},
+    {"id":"012", "name":"[レッドストライフ]ゴールドシップ", "spec":{"distanceSuitability":{"short":"G", "mile":"C", "middle":"A", "long":"A"}}}
+  ]
+}
