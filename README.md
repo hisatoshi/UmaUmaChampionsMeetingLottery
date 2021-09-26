@@ -1,0 +1,2 @@
+# UmaUmaChampionsMeetingLottery
+ウマ娘のチャンミ用の抽選器
